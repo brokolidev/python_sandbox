@@ -35,6 +35,8 @@
             $('#mainSearch').focus();
         });
 
+        // 새로운 라인 추가
+
         // $('#invisibleBtn').on('click', function(e) {
         //     e.preventDefault();
         //     $('#mainSearch').focus();

@@ -31,6 +31,7 @@
 
         $('button').on('click', function(e) {
             e.preventDefault();
+            console.log('I want to remove this');
             $('#mainSearch').focus();
         });
 

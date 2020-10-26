@@ -47,6 +47,7 @@
         // document.getElementById('searchForm').focus();
     });
     </script>
+    <img src="https://no1mart.img9.kr/home/detail/ice02.jpg" alt="Test">
 </body>
 
 </html>

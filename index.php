@@ -26,8 +26,23 @@
         <a href="#" id="invisibleBtn">Click</a>
     </div>
     <script src="js/jquery-3.3.1.min.js"></script>
+    <script src="js/jquery.backDetect.min.js"></script>
     <script>
-    $(document).ready(function() {
+    $(window).load(function() {
+        $('body').backDetect(function() {
+            // Callback function
+            alert("Look forward to the future, not the past!");
+        });
+    });
+    $(function() {
+
+        // if (window.history && window.history.pushState) {
+        //     window.history.pushState('', null, './');
+        //     $(window).on('popstate', function() {
+        //         alert('Back button was pressed.');
+        //         // document.location.href = '/submit';
+        //     });
+        // }
 
         // $('button').on('click', function(e) {
         //     e.preventDefault();
@@ -47,7 +62,6 @@
         // document.getElementById('searchForm').focus();
     });
     </script>
-    <img src="https://no1mart.img9.kr/home/detail/ice02.jpg" alt="Test">
 </body>
 
 </html>

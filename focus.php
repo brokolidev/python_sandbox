@@ -29,14 +29,11 @@
     <script>
     $(document).ready(function() {
 
-        $('button').on('click', function(e) {
+        $('button2').on('click', function(e) {
             e.preventDefault();
-            console.log('I want to remove this');
+            console.log('clicked');
             $('#mainSearch').focus();
         });
-
-        // 새로운 라인 추가
-        // 신규라인 더 추가
 
         // $('#invisibleBtn').on('click', function(e) {
         //     e.preventDefault();

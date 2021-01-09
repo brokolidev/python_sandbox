@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	<sitemap>
+		<loc>https://www.foodspring.co.kr/sitemap-www.xml</loc>
+		<lastmod>2020-10-05</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.foodspring.co.kr/sitemap1.xml</loc>
+		<lastmod>2020-10-05</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.8</priority>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.foodspring.co.kr/sitemap2.xml</loc>
+		<lastmod>2020-10-05</lastmod>
+		<changefreq>always</changefreq>
+		<priority>1.0</priority>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.foodspring.co.kr/sitemap3.xml</loc>
+		<lastmod>2020-10-05</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.7</priority>
+	</sitemap>
+	<sitemap>
+		<loc>https://www.foodspring.co.kr/sitemap4.xml</loc>
+		<lastmod>2020-10-05</lastmod>
+		<changefreq>always</changefreq>
+		<priority>0.8</priority>
+	</sitemap>
+</sitemapindex>
